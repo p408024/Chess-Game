@@ -1,5 +1,5 @@
 .ui-draggable-dragging {
-    z-index: 10000; !important
+    z-index: 10000 !important
 }
 
 .ui-draggable {
@@ -38,8 +38,10 @@ span[id*=p-]{
 }
 
 .color-path{
-    border: 2px solid #7c8bc4;
-    background-color: yellow !important;
+    /* border: 2px solid #7c8bc4;
+    background-color: yellow !important; */
+    border: 2px solid #da4f6a;
+    background-color: rgb(239, 93, 3) !important;
 }
 
 .kill-cell-color{
